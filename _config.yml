@@ -1,16 +1,16 @@
- title: "Dominoes and Dominicans"
-  2 author: "chisaipete"
-  3 description: "A searchable pentaedition critter list."
-  4 url: "https://guxuanzhen16.github.io"
-  5 source-url: "https://github.com/guxuanzhen16/dominoes-and-dominicans"
-  6 baseurl: "/dominoes-and-dominicans"
-  7 exclude: ['Rakefile', 'README.md']
-  8 collections:
-  9   creatures:
- 10     output: true
- 11     permalink: "/creature/:name"
- 12   tags:
- 13     output: true
- 14     permalink: "/tag/:name"
+title: "Dominoes and Dominicans"
+author: "chisaipete"
+description: "A searchable pentadition Dom and Dom critter list."
+url: "https://guxuanzhen16.github.io"
+source-url: "https://github.com/guxuanzhen16/dominoes-and-dominicans"
+baseurl: "/dominoes-and-dominicans"
+exclude: ['Rakefile', 'README.md']
+collections:
+  creatures:
+    output: true
+    permalink: "/creature/:name"
+  tags:
+    output: true
+    permalink: "/tag/:name"
 
 theme: jekyll-theme-tactile

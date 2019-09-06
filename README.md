@@ -1,8 +1,6 @@
-# Bestiary
-
-Bestiary is a mobile-friendly 5e compendium of creatures that organizes them in various classifications and strengths.
-
-See the latest compiled build here: [http://Savion-NEU.github.io/whatever/](http://Savion-NEU.github.io/whatever/)
+# Compendium of monsters
+A saved fork of chisaipete's dominoes and dominicans compendium
+The following is all saved info from the old readme:
 
 ## To Do
 * Sort by location, sub-types, tags, CR, level, etc.

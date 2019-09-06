@@ -21,3 +21,4 @@ I've edited _config.yml for my own build purposes, but if you've got [Jekyll](ht
 ## Thanks
 
 Shoutout to Saph of http://ephe.github.io/grimoire from whom I've shamelessly borrowed the majority of the codebase
+Chisaipete is the creator of this, I just saved it
